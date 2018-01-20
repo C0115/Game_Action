@@ -11,6 +11,7 @@ Visual Studioで実行する場合：
   
 エラーが出た場合：
   DXライブラリのダウンロードとVisual Studioでの設定ができていない可能性があります。
-  http://dxlib.o.oo7.jp/use/dxuse_vscom2017.html　＜－このページを参考にしてください
+  http://dxlib.o.oo7.jp/use/dxuse_vscom2017.html
+  ＜－このページを参考にしてください
   注意：
     ダウンロードしたDXライブラリはなるべくC:ドライブ直下に置いてください
